@@ -1,0 +1,222 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    /* width: 90vw;
+    height: 90vh; */
+    background: url(/images/fondo.png);
+    margin: 2rem;
+    /* background-size: cover; */
+}
+form > input{
+    margin-left: 5%;
+}
+header {
+    /* width: 100%;
+    height: 50%; */
+    /* background-color: red; */
+    /* background:white ; */
+    /* background: url(../images/logoOp7.jpg); */
+    padding: 15px;
+    border-radius: 30px;
+    margin-left: 10%;
+}
+
+main{
+    width: 600px;
+    background: url(/images/fondo1.png);
+    /* background-color: black; */
+    margin: 0 auto;
+}
+
+header > h1{
+    display: flex;
+    justify-content: center;
+    color: rgb(0, 0, 0);
+}
+
+nav{
+    margin-top: 80px;
+    width: 50%;
+    float: right;
+}
+
+nav ul li{
+    display: inline-block;
+    text-transform: uppercase;
+}
+
+nav ul li a {
+    text-decoration: none;
+    background-color: #ff0000;
+    color: #fff;
+    padding:5px;
+    border-radius: 5px;
+}
+
+nav ul li a:hover{
+    color: #000000;
+    background: #001aff;
+}
+
+
+nav > label{
+    color: red;
+}
+
+div >label{
+    color: red;
+}
+
+#mensaje {
+    color: red;
+}
+
+footer{
+    /* background-color: red; */
+    /* background:white; */
+    /* background: url(../images/logoOp7.jpg); */
+    margin-top: 50px;
+    padding: 30px;
+    border-radius: 30px;
+}
+
+h2 {
+    color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: center;
+}
+
+h3 {
+    color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: right;
+}
+/* 
+#Logoop7 {
+    width: 35%;
+    background-image: 20px;
+    display: flex;
+    justify-content: right;
+    float: right;
+}
+#Logoop72 {
+    width: 20%;
+    background-image: 20px;
+    display: flex;
+    justify-content: right;
+    float: right;
+} */
+
+/* #name {
+    color: red;
+}
+
+#apell {
+    color: red;
+} */
+/* *{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background: url(/images/fondo.png);
+}
+main{
+    width: 1024px;
+    background-color: #ffffff;
+    margin:0 auto;
+}
+header{
+    background-color: black;
+    color: white;
+}
+nav ul li a {
+    text-decoration: none;
+    color: #ffffff;
+    padding: 2.6px;
+    border-radius: 20px;
+    background: #ff0000;
+} */
+
+/* *{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background:url(/images/fondo.png);
+    margin: 5rem;
+}
+header{
+    padding: 30px;
+}
+main{
+    opacity: 90%;
+    width: 1024px;
+    background-color: #ffffff;
+    margin:0 auto;
+}
+header > h1{
+    display: flex;
+    justify-content: center;
+    color: red;
+}
+nav{
+    margin-top: 80px;
+    width: 50%;
+}
+nav > ul > li {
+    display: inline-block;
+    text-transform: uppercase;
+}
+nav  ul  li a{
+    text-decoration: none;
+
+    border-radius: 8px;
+    padding: 8px;
+    background: #014642;
+}
+h1{
+    color: red;
+    display: flex;
+    justify-content: center;
+} */
+/* h2{
+    color: red;
+}
+h3{
+    color: red;
+    margin: 5rem;
+} */
+/* a{
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.equi1 {
+    float:right;
+    width: 40%;
+}
+
+.equi2 {
+    float:left;
+    width: 40%;
+}
+
+.equi3 {
+    margin-right: 70px;
+    width: 40%;
+    margin: 2rem;
+}
+
+h4 {
+    color: red;
+    margin: 2rem;
+} */
+
+/* .estil {
+    float: right;
+} */
